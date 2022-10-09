@@ -24,7 +24,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class BiblioteksMapperTest
 {
     private final static String USER = "root";
-    private final static String PASSWORD = "root";
+    private final static String PASSWORD = "Ysr5123mqr";
     private final static String URL = "jdbc:mysql://localhost:3306/bibliotek_test?serverTimezone=CET&allowPublicKeyRetrieval=true&useSSL=false";
 
     private static ConnectionPool connectionPool;
